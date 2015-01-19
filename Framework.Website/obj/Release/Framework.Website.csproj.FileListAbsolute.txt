@@ -1,0 +1,5 @@
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\bin\Framework.Website.dll
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\bin\Framework.Website.pdb
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\bin\Framework.Utilities.OgTagManagers.dll
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\obj\Release\Framework.Website.dll
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\obj\Release\Framework.Website.pdb

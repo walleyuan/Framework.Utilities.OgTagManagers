@@ -1,0 +1,4 @@
+C:\Users\WallE\Documents\Visual Studio 2012\Projects\Framework.Utilities\Framework.Utilities\bin\Release\Framework.Utilities.OgTagManagers.dll
+C:\Users\WallE\Documents\Visual Studio 2012\Projects\Framework.Utilities\Framework.Utilities\bin\Release\Framework.Utilities.OgTagManagers.pdb
+C:\Users\WallE\Documents\Visual Studio 2012\Projects\Framework.Utilities\Framework.Utilities\obj\Release\Framework.Utilities.OgTagManagers.dll
+C:\Users\WallE\Documents\Visual Studio 2012\Projects\Framework.Utilities\Framework.Utilities\obj\Release\Framework.Utilities.OgTagManagers.pdb

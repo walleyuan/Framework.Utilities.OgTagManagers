@@ -1,0 +1,13 @@
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\bin\Framework.Website.dll
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\bin\Framework.Website.pdb
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\obj\Debug\Framework.Website.csprojResolveAssemblyReference.cache
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\obj\Debug\Framework.Website.dll
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\obj\Debug\Framework.Website.pdb
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\bin\Framework.Utilities.OgTagManagers.dll
+c:\users\walle\documents\visual studio 2012\Projects\Framework.Utilities\Framework.Website\bin\Framework.Utilities.OgTagManagers.pdb
+C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagManagers\Framework.Website\bin\Framework.Website.dll
+C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagManagers\Framework.Website\bin\Framework.Website.pdb
+C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagManagers\Framework.Website\bin\Framework.Utilities.OgTagManagers.dll
+C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagManagers\Framework.Website\obj\Debug\Framework.Website.csprojResolveAssemblyReference.cache
+C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagManagers\Framework.Website\obj\Debug\Framework.Website.dll
+C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagManagers\Framework.Website\obj\Debug\Framework.Website.pdb
