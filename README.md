@@ -1,19 +1,13 @@
 <h1>OgTagManager v1.0.1</h1>
 
-OgTagManager is built on .net framework 4.5. It was designed to simplify the implementation of Og Tag for web applications. 
-How to use it
+<p>OgTagManager is built on .net framework 4.5. It was designed to simplify the implementation of Og Tag for web applications.</p> 
 
-* Install NuGet Package
+<h2>How to use it</h2>
 
-* Example of usage
-To add OgTags below:
-<meta property="og:title" content="Title goes here" />
-<meta property="og:url" content="Url goes here" />
-<meta property="og:description" content="Description goes here" />
-<meta property="og:site_name" content="Site name goes here" />
+<strong><a href="https://www.nuget.org/packages/OgTagManager/" target="_blank" > Install NuGet Package </a></strong>
 
-<meta property="og:Image" content="Image Url goes here" />
-<meta property="og:image:secure_url" content="Image Secure Url goes here" />
+To add OgTag like below: <br />
+meta property="og:title" content="Title goes here" 
 
 Here is the sample code:
 
