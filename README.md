@@ -1,4 +1,4 @@
-OgTagManager v1.0.1
+<h1>OgTagManager v1.0.1</h1>
 
 OgTagManager is built on .net framework 4.5. It was designed to simplify the implementation of Og Tag for web applications. 
 How to use it
@@ -15,7 +15,7 @@ To add OgTags below:
 <meta property="og:Image" content="Image Url goes here" />
 <meta property="og:image:secure_url" content="Image Secure Url goes here" />
 
-Here is the C# sample code:
+Here is the sample code:
 
     var imageTagManager = new OgImageTagManager
                     (
