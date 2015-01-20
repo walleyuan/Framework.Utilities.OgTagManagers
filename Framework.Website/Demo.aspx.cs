@@ -19,7 +19,7 @@ namespace Framework.Website
 
             var basicTagManager = new OgBasicTagManager
                     (
-                        new OgTitle { Content = "Title goes here" },
+                        new OgTitle { Content = "" },
                         new OgUrl { Content = "Url goes here" },
                         new OgDescription { Content = "Description goes here" },
                         new OgSiteName { Content = "Site name goes here" },

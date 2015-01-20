@@ -2,3 +2,7 @@ C:\Users\WallE\Documents\Visual Studio 2012\Projects\Framework.Utilities\Framewo
 C:\Users\WallE\Documents\Visual Studio 2012\Projects\Framework.Utilities\Framework.Utilities\bin\Debug\Framework.Utilities.OgTagManagers.pdb
 C:\Users\WallE\Documents\Visual Studio 2012\Projects\Framework.Utilities\Framework.Utilities\obj\Debug\Framework.Utilities.OgTagManagers.dll
 C:\Users\WallE\Documents\Visual Studio 2012\Projects\Framework.Utilities\Framework.Utilities\obj\Debug\Framework.Utilities.OgTagManagers.pdb
+D:\Projects\Zhen Git\OgTagManagers\Framework.Utilities\bin\Debug\Framework.Utilities.OgTagManagers.dll
+D:\Projects\Zhen Git\OgTagManagers\Framework.Utilities\bin\Debug\Framework.Utilities.OgTagManagers.pdb
+D:\Projects\Zhen Git\OgTagManagers\Framework.Utilities\obj\Debug\Framework.Utilities.OgTagManagers.dll
+D:\Projects\Zhen Git\OgTagManagers\Framework.Utilities\obj\Debug\Framework.Utilities.OgTagManagers.pdb

@@ -23,9 +23,8 @@ namespace Framework.Utilities.OgTagManagers.Base
                               {
                                     htmlMeta.Attributes.Add("property", ((IOgTag)prop.GetValue(this)).Property);
                                     htmlMeta.Content = content;
+                                    htmlMetas.Add(htmlMeta);
                               }
-
-                              htmlMetas.Add(htmlMeta);
                         }
                   }
 

@@ -11,3 +11,10 @@ C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagMa
 C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagManagers\Framework.Website\obj\Debug\Framework.Website.csprojResolveAssemblyReference.cache
 C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagManagers\Framework.Website\obj\Debug\Framework.Website.dll
 C:\Users\WallE\Documents\visual studio 2012\Projects\Framework.Utilities.OgTagManagers\Framework.Website\obj\Debug\Framework.Website.pdb
+D:\Projects\Zhen Git\OgTagManagers\Framework.Website\bin\Framework.Website.dll
+D:\Projects\Zhen Git\OgTagManagers\Framework.Website\bin\Framework.Website.pdb
+D:\Projects\Zhen Git\OgTagManagers\Framework.Website\bin\Framework.Utilities.OgTagManagers.dll
+D:\Projects\Zhen Git\OgTagManagers\Framework.Website\obj\Debug\Framework.Website.csprojResolveAssemblyReference.cache
+D:\Projects\Zhen Git\OgTagManagers\Framework.Website\obj\Debug\Framework.Website.dll
+D:\Projects\Zhen Git\OgTagManagers\Framework.Website\obj\Debug\Framework.Website.pdb
+D:\Projects\Zhen Git\OgTagManagers\Framework.Website\bin\Framework.Utilities.OgTagManagers.pdb
