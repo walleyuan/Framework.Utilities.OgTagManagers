@@ -11,20 +11,23 @@ namespace Framework.Utilities.OgTagManagers
         public OgUrl Url { get; set; }
         public OgDescription Description { get; set; }
         public OgSiteName SiteName { get; set; }
+        public OgType Type { get; set; }
 
-        private readonly OgImageTagManager _ogImageTagManager;
+          private readonly OgImageTagManager _ogImageTagManager;
 
         public OgBasicTagManager
             (OgTitle title,
              OgUrl url,
              OgDescription ogDescription,
              OgSiteName ogSiteName,
+             OgType ogType,
              OgImageTagManager ogImageTagManager = null)
         {
             this.Title = title;
             this.Url = url;
             this.Description = ogDescription;
             this.SiteName = ogSiteName;
+            this.Type = ogType;
             this._ogImageTagManager = ogImageTagManager;
         }
 

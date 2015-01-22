@@ -1,0 +1,4 @@
+D:\Projects\Zhen Git\OgTagManagers\Framework.Utilities\bin\Release\Framework.Utilities.OgTagManagers.dll
+D:\Projects\Zhen Git\OgTagManagers\Framework.Utilities\bin\Release\Framework.Utilities.OgTagManagers.pdb
+D:\Projects\Zhen Git\OgTagManagers\Framework.Utilities\obj\Release\Framework.Utilities.OgTagManagers.dll
+D:\Projects\Zhen Git\OgTagManagers\Framework.Utilities\obj\Release\Framework.Utilities.OgTagManagers.pdb
