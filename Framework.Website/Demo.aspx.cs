@@ -23,7 +23,7 @@ namespace Framework.Website
                         new OgUrl { Content = "Url goes here" },
                         new OgDescription { Content = "Description goes here" },
                         new OgSiteName { Content = "Site name goes here" },
-                        new OgType {"website"},
+                        new OgType { Content = "website" },
                         imageTagManager
                     );
 
