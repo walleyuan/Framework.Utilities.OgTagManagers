@@ -17,12 +17,13 @@ Here is the sample code:
                         new OgImageSecureUrl { Content = "Image Secure Url goes here" }
                     );
 
-            var basicTagManager = new OgBasicTagManager
+           var basicTagManager = new OgBasicTagManager
                     (
                         new OgTitle { Content = "Title goes here" },
                         new OgUrl { Content = "Url goes here" },
                         new OgDescription { Content = "Description goes here" },
                         new OgSiteName { Content = "Site name goes here" },
+                        new OgType { Content = "website" },
                         imageTagManager
                     );
 
